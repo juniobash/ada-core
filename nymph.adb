@@ -1,5 +1,4 @@
-WITH Text_io; 
-USE Text_io;
+WITH Text_io; USE Text_io;
 
 PROCEDURE NymphAda IS
 BEGIN
